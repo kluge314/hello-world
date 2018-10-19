@@ -1,2 +1,2 @@
 # hello-world
-My first repository (who doesn't say that the first time ;)
+My first repository branch! Ooh, how exciting...what's next, I wonder?!
